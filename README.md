@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 -->
 
 [![Stanleyhoo1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanleyhoo1&show_icons=true&count_private=true&theme=github_dark)](https://github.com/stanleyhoo1)
-[![GitHub Streak](https://streak-stats.demolab.com?user=JerryWu0430&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Stanleyhoo1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 [![Stanleyhoo1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanleyhoo1&langs_count=10&theme=radical)](https://github.com/stanleyhoo1)
