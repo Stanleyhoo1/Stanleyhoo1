@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=Stanleyhoo1&color=blue&style=flat-square)
+![GitHub Stats](https://img.shields.io/badge/dynamic/json?color=blue&label=GitHub%20Stats&query=public_repos&url=https://api.github.com/users/Stanleyhoo1&style=flat-square)
+![Followers](https://img.shields.io/github/followers/Stanleyhoo1?style=flat-square)
+![Stars](https://img.shields.io/github/stars/Stanleyhoo1?style=flat-square)
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Stanleyhoo1&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Stanleyhoo1)
+
 <!--
 **Stanleyhoo1/Stanleyhoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
