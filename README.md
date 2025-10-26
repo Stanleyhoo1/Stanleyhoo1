@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Stanleyhoo1&color=blue&style=flat-square)
-![GitHub Stats](https://img.shields.io/badge/dynamic/json?color=blue&label=GitHub%20Stats&query=public_repos&url=https://api.github.com/users/Stanleyhoo1&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Stanleyhoo1?style=flat-square)
-![Stars](https://img.shields.io/github/stars/Stanleyhoo1?style=flat-square)
-
 <!--
 **Stanleyhoo1/Stanleyhoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Stanleyhoo1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanleyhoo1&show_icons=true&count_private=true&theme=github_dark)](https://github.com/stanleyhoo1)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Stanleyhoo1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 [![Stanleyhoo1's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanleyhoo1&langs_count=10&theme=radical)](https://github.com/stanleyhoo1)
