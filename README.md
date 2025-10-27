@@ -1,4 +1,5 @@
 ## Hi there 👋
+Check out some of my projects below!
 
 <!--
 **Stanleyhoo1/Stanleyhoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
