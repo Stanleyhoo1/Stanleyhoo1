@@ -31,10 +31,10 @@ I'm Stanley, a Robotics & AI student at UCL with a focus on computer vision, LLM
 - Full-stack development (Python, JS/TS)  
 - Data engineering & optimisation
 
+<!--
 ---
-
 ### 📊 GitHub Stats
 
 [![Stanleyhoo1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stanleyhoo1&show_icons=true&count_private=true&theme=github_dark)](https://github.com/Stanleyhoo1)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanleyhoo1&langs_count=10&theme=radical)](https://github.com/Stanleyhoo1)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stanleyhoo1&langs_count=10&theme=radical)](https://github.com/Stanleyhoo1) -->
